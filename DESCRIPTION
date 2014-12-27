@@ -1,5 +1,5 @@
 Package: rvertnet2
-Title: Search VertNet archives from R
+Title: Search VertNet archives using R
 Version: 0.2
 Imports:
     plyr,
