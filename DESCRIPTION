@@ -1,6 +1,6 @@
 Package: rvertnet2
 Title: Search VertNet archives using R
-Version: 0.2
+Version: 2.0
 Imports:
     plyr,
     jsonlite,
